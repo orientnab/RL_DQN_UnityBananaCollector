@@ -25,3 +25,8 @@ Follow the instructions in `myNavigation.ipynb` to get started with training you
 ## Dependencies
 1. Python3 with matplotlib, jupyter, numpy and torch modules.
 2. Unity ML-Agents from <https://github.com/Unity-Technologies/ml-agents>.
+
+## Future Ideas and Improvements
+It would be very interesting to implement other techniques to further enhance the performance of the agent.
+There are a series of techniques that could be used such as A3C or Distributional DQN and Prioritized Experience Replay, among others.
+The work by [DeepMind on Rainbow](https://deepmind.com/research/publications/rainbow-combining-improvements-deep-reinforcement-learning), where they implement most of this techniques could come useful.
